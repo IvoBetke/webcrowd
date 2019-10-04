@@ -1,6 +1,6 @@
 ## webcrowd 
 webcrowd is consultancy firm that advises companies on questions related to hiring and scaling tech and product teams.
-Its operative boutique tech recruitment business was closed in 2016 as Ivo Betke became the Manging Director for <a href="http://www.talent.io>talent.io Germany</a>. 
+Its operative boutique tech recruitment business was closed in 2016 as Ivo Betke became the Manging Director for talent.io Germany. 
 
 eMail: ivo (at) webcrowd (dot) net  
 <a href="https://www.linkedin.com/in/ibetke">Contact me on LinkedIn</a>  
