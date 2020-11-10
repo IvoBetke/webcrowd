@@ -7,8 +7,8 @@ eMail: ivo (at) webcrowd (dot) net
 
 webcrowd UG (haftungsbeschränkt)  
 Managing Director: Ivo Betke  
-Waldemarstraße 37a  
-10999 Berlin, Germany  
+Richardstraße 105
+12043 Berlin, Germany  
 
 Handelsregister: HRB 158145 B  
 Amtsgericht-Charlottenburg  
